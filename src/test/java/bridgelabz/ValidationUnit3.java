@@ -21,7 +21,7 @@ public class ValidationUnit3 {
 	public void test1() {
 
 		// Loop for validating all the elements present in the array
-		for (int i = 0; i <= 7; i++) {
+		for (int i = 0; i <= 8; i++) {
 			// storing array element to a variable
 			String checker = email[i];
 
